@@ -1,15 +1,15 @@
 {
   "mainSkills": [
-    "JavaScript",
-    "TypeScript",
-    "React.js",
-    "Redux.js",
-    "Node.js",
     "Python",
     "FastAPI",
     "PostgreSQL",
     "Pytest",
     "Polars",
+    "JavaScript",
+    "TypeScript",
+    "React.js",
+    "Redux.js",
+    "Node.js",
 
     "Pandas",
     "SQLModel",
@@ -221,9 +221,9 @@
       "curl": "https://intropic.io/",
       "range": "2022 - still working",
       "project": [
-        "Currently I am working on Passive Fund Intelligence application development as a Full stack( TypeScript & Python ) developer.",
-        "Design, develop, and deliver new features on a event driven microservices architecture.",
-        "Taking responsibility of requirement gathering, drawing architectural diagram, implementing data models, writing api and development of SPA using React and TypeScript."
+        "Led development of the Apptropic suite: Passive Fund Intelligence, Fund Flows, and Insights, managing full lifecycle.",
+        "Innovated CI/CD practices and micro-frontend architecture for enhanced scalability and maintainability.",
+        "Spearheaded RESTful API development and excelled in robust data modeling."
       ],
       "techs": [
         "Python",
@@ -246,13 +246,9 @@
       "curl": "https://www.hsbc.co.uk/",
       "range": "2018 - 2022",
       "project": [
-        "Managed end to end delivery of 3 PODs. ",
-        "Successffully Delivered projected within given timelines.",
-        "Design and development of scalable, cross-browser, cross-device compatible applications",
-        "Worked closely with the business analysts, product owners and design teams to redesign and implement",
-        "Authored standard-compliant code with focus on best practices, scalability, performance and improved accessibility.",
-        "Maintained high-level control over the architecture and made sure that it evolved in the right direction when new challenges appeared.",
-        "Set up continuous delivery and Scrum workflow. Helped with developer interviews and supported the team to get off the ground."
+        "Directed the creation of a Digital Security Platform for retail banking, deployed across 32 global markets.",
+        "Oversaw development and deployment of major banking products including Personal Loans , Home Loans , Credit Cards , Account Opening, customizing them to meet local regulatory and consumer requirements.",
+        "Managed three technical teams, ensuring successful delivery of projects."
       ],
       "techs": [
         "React.js",
@@ -280,11 +276,8 @@
       "curl": "https://www.credit-suisse.com/ch/en.html",
       "range": "2015 - 2018",
       "project": [
-        "Design and development of scalable, cross-browser, cross-device compatible applications (Desktop & Tablet) ",
-        "Worked closely with the business analysts, product owners and design teams to redesign and implement",
-        "Authored standard-compliant code with focus on best practices, scalability, performance and improved accessibility.",
-        "Maintained high-level control over the architecture and made sure that it evolved in the right direction when new challenges appeared.",
-        "Set up continuous delivery and Scrum workflow. Helped with developer interviews and supported the team to get off the ground."
+        "Orchestrated the development of a highly scalable analytics application for Credit Suisse, leveraging React.js and D3.js.",
+        "Established and enforced best practices for code quality and managed a technical team."
       ],
       "techs": [
         "React.js",
@@ -312,10 +305,8 @@
       "curl": "http://www.citigroup.com/citi/about/countrypresence/united-states-usa.html",
       "range": "2013 - 2015",
       "project": [
-        "Redesigned and developed rich, custom presentation layer for Citi Private Banking portfolio for account opening process and forms storing and retrieval system",
-        "Consulted clients and design teams on delivering the best user experiences using rapid prototyping.",
-        "Developed mobile-friendly user interfaces, focusing on responsive design principles.",
-        "Delivered code focusing on best practices, scalability, high-performance and accessibility."
+        "Led the development of advanced mobile and web applications for Citi Private Banking, using Ext.js and Sencha Touch, significantly improving the digital banking experience with intuitive, seamless service access.",
+        "Directed a major redesign of the presentation layer for Citi Private Banking, enhancing the account opening process and form monitoring, which led to a more user-friendly interface and faster, more accurate data processing."
       ],
       "techs": [
         "Angular.js",
@@ -340,8 +331,9 @@
       "client": "Daimler AG, Germany",
       "range": "2011 - 2013",
       "project": [
-        "Developed Web and Mobile Applications which works across multiple browsers and devices",
-        "Did code reviews and consults for tough developer problems to unblock whoever is stuck"
+        "Led the end-to-end development of \"Active-workspace for Social Collaborations,\" an internal portal akin to StackOverflow at Siemens, from concept to deployment, enhancing internal knowledge sharing and collaboration.",
+        "Engineered the integration of front-end and back-end systems, creating a seamless and efficient platform for enhanced social collaboration.",
+        "Utilized modern web technologies to develop a responsive and user-friendly interface paired with robust back-end services for reliable data processing and storage."
       ],
       "techs": [
         "JavaScript",
@@ -366,7 +358,7 @@
       "client": " Barclaycard, UK",
       "range": "2011 - 2012",
       "project": [
-        "Develop, design, maintenance and support of account services 2 web application for Barclaycard customers. It supports IE6 and Firefox 4 browsers",
+        "Key contributor to the design, development, and maintenance of the \"Account Services 2\" web application for Barclays, enhancing the digital banking experience for UK credit card customers.",
         "Integrated various 3rd party application for sending notification and secure communication with the client."
       ],
       "techs": [
@@ -389,9 +381,8 @@
       "client": "LexisNexis, US",
       "range": "2008 - 2011",
       "project": [
-        "Developed Web application for Legal Entities and Attorneys",
-        "Developed Middleware application using Java 6 and Spring 2",
-        "Developed Web application which consumes RESTful APIs using Ajax"
+        "Led the development of a master data management web application for LexisNexis, a largest Law firm in US, creating a robust platform for harmonizing, storing, and retrieving critical data across various information systems.",
+        "Managed the entire development process, from initial requirement gathering and system design to coding and implementation, ensuring the solution met all operational needs effectively."
       ],
       "techs": [
         "Java 6",
@@ -413,11 +404,11 @@
       "workType": "IoT Platform Development",
       "url": "https://www.hotschedules.com/",
       "description": [
-        "Successfully implemented IoT in one of the HotSchedule's product which continuously receives data from vast variety of Systems across United States",
-        "We divided our application into 4 layers, i.e IoT Devices, IoT Gateway, Data Agrregate cum pre-processing, cloud cum data analytics layer",
-        "I extensively worked on data aggregate layer as it contains heavy-duty data mapping engine in it.",
-        "Automated parsing of data from different file formats and storing in NoSQL database(MongoDB) using Node.js middleware",
-        "Presented data to the client using D3.js Charts and Ag-Grid"
+        "Successfully implemented IoT technology in a HotSchedules product, enabling real-time data integration from a wide array of systems across the United States.",
+        "Structured the application into four layers: IoT Devices, IoT Gateway, Data Aggregation and Pre-processing, and Cloud/Data Analytics.",
+        "Focused extensively on the Data Aggregate layer, developing a sophisticated data mapping engine to handle heavy-duty data processing.",
+        "Automated the parsing of data from various file formats and ensured its storage in a MongoDB NoSQL database using Node.js middleware.",
+        "Visualized client data through interactive D3.js charts and Ag-Grid, enhancing user engagement and data accessibility."
       ],
       "technologies": [
         "IoT Platform",
@@ -444,9 +435,9 @@
       "workType": "Development",
       "url": "https://www.staplesadvantage.com/learn",
       "description": [
-        "Delivered very high quality code for their one of the most widely used web application across the world",
-        "Millions of people consume same web pages across the world using different devices",
-        "Developed cross-browser, cross-device compatible web page for Staples Business Advantages portal"
+        "Delivered exceptionally high-quality code for one of Staples' most widely used web applications globally.",
+        "Enabled millions of users worldwide to access the same web pages across various devices.",
+        "Developed a cross-browser, cross-device compatible web page for the Staples Business Advantage portal."
       ],
       "technologies": ["HTML 5", "CSS3", "JavaScript", "jQuery", "Ajax", "JSON"]
     }
